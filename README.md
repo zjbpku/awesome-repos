@@ -1,4 +1,10 @@
-# awesome-langs-repos
+# awesome repos
+
+### [awesome](https://github.com/sindresorhus/awesome)
+Awesome lists about all kinds of interesting topics
+
+### [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+A curated list of awesome awesomeness
 
 ### [awesome-cpp](https://github.com/fffaraz/awesome-cpp) 
 A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
@@ -8,12 +14,6 @@ A collection of resources on modern C++
 
 ### [awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn)
 C++ 资源大全中文版，标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等
-
-### [awesome](https://github.com/sindresorhus/awesome)
-Awesome lists about all kinds of interesting topics
-
-### [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-A curated list of awesome awesomeness
 
 ### [awesome-c](https://github.com/aleksandar-todorovic/awesome-c) 
 Continuing the development of awesome-c list on GitHub
@@ -32,8 +32,6 @@ A collection of android security related resources
 
 ### [Awesome Android Complete Reference](https://github.com/amitshekhariitbhu/awesome-android-complete-reference)
 Awesome Android references for everything like best practices, performance optimization, etc.
-
-### [uhub: awesome-xxx](https://github.com/uhub)
 
 ### [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
 A collection of various awesome lists for hackers, pentesters and security researchers
@@ -86,6 +84,15 @@ A curated list of amazingly awesome PHP libraries, resources and shiny things.
 ### [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
 🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.
 
-### []()
-### []()
-### []()
+### [uhub: awesome-xxx](https://github.com/uhub)
+a repo includes awesome xxx
+
+### [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+
+### [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)
+TensorFlow - A curated list of dedicated resources http://tensorflow.org
+
+### [awesome-datascience](https://github.com/academic/awesome-datascience)
+📝 An awesome Data Science repository to learn and apply for real world problems.
+
